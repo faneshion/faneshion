@@ -1,4 +1,4 @@
-## Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=faneshion&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **faneshion/faneshion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+  🫡 Glad to see you here! I'm Yixing Welcome to my profile! 🤝👋
+</h1>
